@@ -1,0 +1,49 @@
+**
+Documentation
+
+Create folder https://phplab.moneys.today/mk-new-era-plugin/
+
+Github repository
+https://github.com/sabrinasabita/mk-new-era
+
+
+
+**
+email
+
+jobs@impsyde.com
+
+Impsyde GmbH
+
+
+**
+Target
+	PHP OOP principles and practices
+	WordPress plugin development
+	Automated tests in PHP and WordPress context
+	Git
+	HTML and CSS
+
+**
+?
+running composer update
+WordPress context
+JavaScript
+jQuery
+Modern PHP packages and/or frameworks
+Docker and its ecosystem
+
+** Quick WordPress Guide
+How to Hook into an Action
+add_action( $hook, $function_to_add, $priority, $accepted_args );
+
+How to Hook into an Filter
+add_filter( $tag, $function_to_add, $priority, $accepted_args );
+
+How to add css to a theme
+wp_enqueue_style( $handle, $src, $deps, $ver, $media );
+Create a new function in the functions.php file and use the above-mentioned WordPress codex.
+function blogginglove_designfile() {
+ wp_enqueue_style(‘style’, get_stylesheet_uri());
+}
+add_action(‘wp_enqueue_scripts’, ‘blogginglove_designfile’);
