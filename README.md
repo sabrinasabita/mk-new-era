@@ -24,7 +24,7 @@ Or you can install it from the installed plugin "mk-new-era" installation folder
 Copy and Paste this code:
 
 Header Zone:
-<link rel="stylesheet" href="wp-content/plugins/mk-new-era/assets/css/ix.css">
+'\<link rel="stylesheet" href="wp-content/plugins/mk-new-era/assets/css/ix.css"\>'
 
 Footer Zone:
 <script type="text/javascript" src="wp-content/plugins/mk-new-era/assets/js/ix.js"></script>
