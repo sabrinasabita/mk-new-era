@@ -14,8 +14,8 @@ Insert Headers and Footers
 Allows you to insert code or text in the header or footer of your WordPress blog
 Version 1.4.5 | By WPBeginner | View details
 
-Or you can install it from the installed plugin installation folder:
-  plugins/mk-new-era/reqplugins/insert-headers-and-footers.1.4.5.zip
+Or you can install it from the installed plugin "mk-new-era" installation folder:
+  /plugins/mk-new-era/reqplugins/insert-headers-and-footers.1.4.5.zip
 
 4. Once both plugins installed, activate them.
 
@@ -24,11 +24,9 @@ Or you can install it from the installed plugin installation folder:
 Copy and Paste this code:
 
 Header Zone:
-
 <link rel="stylesheet" href="wp-content/plugins/mk-new-era/assets/css/ix.css">
 
 Footer Zone:
-
 <script type="text/javascript" src="wp-content/plugins/mk-new-era/assets/js/ix.js"></script>
 
 and push the button "Save ".
